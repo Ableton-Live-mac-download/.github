@@ -61,9 +61,9 @@ Built-in instruments, sound packs, and support for plug-ins make it easy to crea
 
 ## 🖼 Preview
 
-![Ableton Live Screenshot 1](https://static.macupdate.com/screenshots/267183/m/ableton-live-screenshot.png?v=1671138117)  
-![Ableton Live Screenshot 2](https://img.utdstc.com/screen/53f/dbe/53fdbea82b137797cc2bb5edbe6a88c56b8145e8e99af44f84e2d145b4670cc3:600)  
-![Ableton Live Screenshot 3](https://img.utdstc.com/screen/56e/559/56e559967f53d2f3c592a556b19a0087c6c077c722fbecbff03f5a997cbc79c1:600)
+![Ableton Live Screenshot 1](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147484495/images/3d45be4-3353-2314-c0db-e5dc638823_Which_Ableton_Live_version_is_the_best.png)  
+![Ableton Live Screenshot 2](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147484495/images/4c5bc-8a13-c54-6051-de28224e438a_How_To_Get_Back_To_The_Ableton_Live_12_Demo_Song.jpg)  
+
 
 ---
 
